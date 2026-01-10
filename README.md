@@ -12,7 +12,7 @@ wl2v2start - In-game settings for a competitive Wingman (2v2) match. Used during
 
 wlwarmup - Start a warmup session (usually for readying up phase)
 
-wlknife - Start a knife round for deciding starting side (BO1s / BO2s only)
+wlknife - Start a knife round for deciding starting side (BO1s / decider map only)
 
 wllive - Start competitive match with default Premier matchmaking ruleset
 

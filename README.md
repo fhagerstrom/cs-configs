@@ -9,3 +9,11 @@ communityserver - In-game settings for casual private matches with friends.
 smokeprac - In-game settings for practicing nade lineups and other related things.
 
 wl2v2start - In-game settings for a competitive Wingman (2v2) match. Used during local tournament at WonderLAN Spr24.
+
+wlwarmup - Start a warmup session (usually for readying up phase)
+
+wlknife - Start a knife round for deciding starting side (BO1s / BO2s only)
+
+wllive - Start competitive match with default Premier matchmaking ruleset
+
+wllive_ot - Enables overtime and defines timeouts
